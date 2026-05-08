@@ -4,7 +4,7 @@
   "short_name": "Duplicate Cleaner",
   "version": "1.0.0",
   "description": "Fast bookmark duplicate removal tool.",
-  "author": "BookmarkTools Team",
+  "author": "meiyuu01",
   "permissions": ["bookmarks", "storage", "alarms"],
   "action": {
     "default_popup": "popup.html",
